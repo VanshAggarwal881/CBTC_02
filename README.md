@@ -1,4 +1,4 @@
-# Prasunet_WD_04
+# CBTC_02
 # Weather Web Application
 The JavaScript file handles the functionality of fetching and displaying weather data. Here's the key logic:
 
